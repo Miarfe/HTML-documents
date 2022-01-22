@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Tesla</title>
+<p>Jeff</p>
+</head>
+
+<body>
+<main>
+
+<nav>
+      <a href="/Assignment.html">Home</a> | 
+      <a href="/dog.jpg">Dog Picture</a> | 
+      <a href="/Dog_Video.html">Dog Video</a> | 
+</nav>
+
+	<h1>Ipsilon</h1>
+	<h3>AWS</h3>
+	<a href="dog.jpg">Weimaraner</a><br>
+	<a href="https://www.hackerrank.com/">hackerrank</a>
+
+<footer>
+  <img src="1.png" alt="Social Media" width="1800" height="400">
+</footer>
+</main>	
+</body>
+</html>
